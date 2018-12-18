@@ -1,0 +1,155 @@
+.section-servicos{
+    margin-bottom: 5% !important;
+}
+
+.section-nossa-historia div .container-title-nossa-historia{
+    margin-bottom: 0% !important;
+}
+
+.section-nossa-historia div div .text-nossa-historia{
+    margin-bottom: -4%;
+}
+
+.section-nos-siga div .border-opcatity{
+    width: 22%;
+}
+
+.section-nos-siga div div:nth-child(2){
+    font-weight: bold;
+    color: #0C301F;
+}
+
+.section-nossa-historia div .container-title-servicos{
+    background-color: #0C301F;
+    padding: 3.5%;
+    border-radius: 18px 0px 18px 0px;
+    color: #A8D135;
+    font-weight: bold;
+    width: 59%;
+}
+
+
+
+.ul-lista-servicos-mercado .item-li{
+    width: 33%;
+    margin-bottom: 5%;    
+}
+
+
+
+.ul-lista-servicos-mercado li div span{
+    font-size: 21px;
+    text-align: center;
+}
+
+.lista-dos-servicos{
+    margin-top: 2%;
+    padding-left: 21px;
+}
+
+.lista-dos-servicos li{
+    color: #A8D135;
+    margin-bottom: 1%;
+}
+
+.lista-dos-servicos li span{
+    color: #0C301F;
+    font-size: 13px;
+}
+
+.title-nossa-historia{
+    color:  #A8D135 !important
+}
+
+.container-title-sobre-nos{
+    width: 76% !important;
+}
+
+.container-title-mercado-organico{
+    width: 70% !important;
+}
+
+.section-nos-siga div .border-opcatity{
+    width: 17% !important;
+    background-color: #0C301F !important;
+    font-weight: bold !important;
+}
+
+.container-text-title{
+    margin-bottom: 5% !important;
+}
+
+.container-text-title div{
+    font-size: 57px !important;
+    font-family: Museo700 !important;
+}
+
+.section-nossa-historia div .container-title-nossa-historia{
+    margin-top: 0px !important;
+}
+
+.margin-top-15{
+    margin-top: 15%
+}
+
+.section-nos-siga-mobile{
+    display: none;
+}
+
+@media only screen and (max-width: 600px) { 
+    .section-nos-siga{
+        display: none
+    }
+    .section-nos-siga-mobile{
+        display: block
+    }
+    .ul-lista-servicos-mercado li div span{
+        font-size: 12px;
+        text-align: center;
+    }
+    
+    .ul-lista-servicos-mercado{
+        padding: 0px !important
+    }
+    
+    .section-nossa-historia div .container-title-servicos{
+        background-color: #0C301F;
+        padding: 3.5%;
+        border-radius: 18px 0px 18px 0px;
+        color: #A8D135;
+        font-weight: bold;
+        width: auto
+    }
+    .bg-mobile-none{
+        background: none;
+    }    
+    .container-title-mercado-organico{
+        width: 100% !important;
+    }
+    .section-nos-siga div div:nth-child(2){
+        width: 100% !important;
+    }
+    .border-opcatity{
+        display: none !important;
+    }
+    .container-text-title div{
+        font-size: 19px !important;
+    }
+    .ul-lista-servicos-mercado{
+        flex-direction: column;
+    }
+    .ul-lista-servicos-mercado .item-li{
+        width: 100%;
+    } 
+
+    .section-nossa-historia div .container-title-nossa-historia{
+        margin-top: -29.1% !important;
+        width: auto !important;
+        padding-left: 30px;
+        padding-right: 30px;
+        height: 75px;
+    }
+    .container-title-sobre-nos{
+        width: 100% !important;
+    }   
+}

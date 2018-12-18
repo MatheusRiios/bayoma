@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'museo900regular';
+	src: url('./museo900regular.eot');
+	src: local('museo900regular'), url('./museo900regular.woff') format('woff'), url('./museo900regular.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_14463">Text with this font applied</p> */
+.fontsforweb_fontid_14463 {
+	font-family: 'museo900regular' !important;
+}
+
+/* Font downloaded from FontsForWeb.com */

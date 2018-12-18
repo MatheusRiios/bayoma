@@ -1,0 +1,86 @@
+.masthead{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background: url(../img/quem-somos/Image-Quem\ somos.png);
+    background-position: center;
+    background-repeat: no-repeat;    
+    background-size: cover;
+}
+
+.section-nossa-historia.bg{
+    background: url(../img/bg-desktop.png) !important;
+    background-position: center;
+    background-repeat: no-repeat;    
+    background-size: cover;
+}
+
+
+
+.section-nossa-historia div .container-title-nossa-historia{
+    background-color: #0C301F;
+    padding: 1%;
+    border-radius:  18px 18px 0px 0px;
+    margin-bottom: 2%;
+    height: 101px;
+    font-size: 29px;
+    width: 27% !important;
+}
+
+.section-nossa-historia div .container-title-nossa-historia span{   
+    color: #A8D135;
+    font-family: Museo900 !important;
+}
+
+.container-text-nossa-historia{
+    width: 64% !important;
+}
+
+.section-nossa-historia div div .text-nossa-historia{
+    color: #0C301F;
+    margin-bottom: 7%;
+    font-size: 21px;
+    line-height: 2.7rem;
+    font-family: Museo300;
+
+}
+
+.container-btn-receber-noticias{
+    left: 70.5% !important;
+}
+
+.ntWayPoint div{
+    left: 49.5% !important;
+}
+    
+@media only screen and (max-width: 600px) { 
+    .section-nossa-historia{
+        background-image: url(../img/bg-mobile.png);        
+        background-repeat: no-repeat;
+        background-size: contain;
+        width: 100%;
+    }
+    .title-nossa-historia{
+        font-size: 22px;
+        font-family: Museo900 !important;
+    }
+    .section-nossa-historia div .container-title-nossa-historia{
+        margin-top: -29% !important;
+        width: auto !important;
+        padding: 25px;
+        height: 76px;
+    }    
+    .icon-menu  i{
+        font-size: 35px;
+        cursor: pointer;
+        margin-top: 10% !important;
+    }
+    .container-text-nossa-historia{
+        padding: 0px !important;
+    }
+    .masthead{
+        background-image: url("../img/home/Slide-Home.png");
+        background-size: auto auto;
+    }
+
+}

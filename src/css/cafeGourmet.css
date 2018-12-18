@@ -1,0 +1,58 @@
+.section-servicos{
+    margin-bottom: 0% !important;
+}
+
+.section-nossa-historia div div .text-nossa-historia{
+    font-size: 22px;
+    margin-bottom: 5%;
+}
+
+.slick-prev:before, .slick-next:before{
+    color: black !important;
+}
+
+.your-class div img{
+    width: 100%;
+    margin-bottom: 7%;
+}
+
+.text-unimosPessoas{
+    font-size: 27px;
+    font-family: Museo700 !important;
+    font-weight: bold;
+}
+
+.slick-dots li button{
+    color: black !important;
+}
+
+.container-title-sobre-nos{
+    width: 100% !important;
+}
+
+.section-nos-siga div .border-opcatity{
+    width: 21% !important;
+}
+
+.container-title-mercado-organico{
+    width: 82% !important;
+}
+
+.container-text-title{
+    margin-bottom: 0px !important;
+    width: 51% !important;
+}
+
+.container-text-title div{
+    font-size: 53px !important;
+}
+
+.section-nossa-historia div .container-title-nossa-historia{
+    margin-top: 0px !important;
+}
+
+@media (min-width: 375px){
+    .section-nossa-historia div .container-title-nossa-historia{
+        margin-top: -78px !important;
+    }
+}

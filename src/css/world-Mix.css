@@ -1,0 +1,50 @@
+.contiainer-input{
+    padding-right: 11% !important;
+    padding-left: 11% !important;
+    padding-top: 11% !important;
+    margin-top: -4% !important;
+    position: relative !important;
+    margin-bottom: 8% !important;
+}
+
+.container-btn-receber-noticias{
+    left: 62%;
+}
+
+
+
+.container-text-title div{
+    margin-bottom: 0px !important;
+}
+
+.section-nos-siga div div:nth-child(2){
+    margin-bottom: 0px !important;    
+}
+
+.container-text-nossa-historia{
+    width: 62% !important;
+}
+
+@media only screen and (max-width: 600px) {     
+    .container-title-nossa-historia{
+        width: 80% !important;
+        height: 70px;
+        border-radius:  0px 0px 18px 18px !important;
+    }
+    .container-bayoma-soul{
+        margin-top: 0px !important;
+    }
+
+    .section-nossa-historia div .container-title-nossa-historia{
+        margin-top: -0.1% !important;
+    }
+  
+    .container-text-nossa-historia{
+        padding: 0px !important;
+        margin-top: 5%;
+    }
+    .container-horario-funcionamento span{
+        font-size: 13px !important;
+    }
+        
+}

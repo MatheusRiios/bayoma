@@ -1,0 +1,39 @@
+@font-face {
+    font-family: MuseoRegular;
+    src: url(../fonts/museo-500/Museo500-Regular.otf);
+}
+
+@font-face {
+    font-family: Museo700;
+    src: url(../fonts/museo-700-maisfontes/museo-700.otf);
+}
+
+@font-face {
+    font-family: Museo300;
+    src: url(../fonts/museo-300-maisfontes/museo-300.otf);
+}
+
+@font-face {
+    font-family: Museo100;
+    src: url(../fonts/museo100regular/museo100regular.woff);
+}
+
+@font-face {
+    font-family: AvenirOblique;
+    src: url(../fonts/avenir-lt-std-65-medium-oblique-maisfontes/avenir-lt-std-65-medium-oblique.otf);
+}
+
+@font-face {
+    font-family: AvenirHeavy;
+    src: url(../fonts/avenir-lt-85-heavy-maisfontes/avenir-lt-85-heavy.ttf);
+}
+
+@font-face {
+    font-family: Museo900;
+    src: url(../fonts/museo900regular/museo900regular.woff);
+}
+
+
+
+
+
